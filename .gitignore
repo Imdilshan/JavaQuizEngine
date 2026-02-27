@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# Compiled files
+*.class
+
+# OS files
+.DS_Store
+
+# Runtime data
+results.txt
+
+# NetBeans
+nbproject/private/
+build/
+dist/
