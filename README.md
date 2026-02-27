@@ -185,11 +185,18 @@ This project helped me practice:
 
 ## 📸 Screenshots
 
+<p align="center">
+  <img src="Screenshots/Welcome.png" width="45%">
+  <img src="Screenshots/Question.png" width="45%">
+  <img src="Screenshots/Validation.png" width="45%">
+  <img src="Screenshots/Result.png" width="45%">
+  <img src="Screenshots/History.png" width="45%">
+</p>
 
 ---
 
 ## 📜 License
-
+This project is licensed under the MIT License — see the LICENSE file for details.
 ---
 
 ## ⭐ Author
